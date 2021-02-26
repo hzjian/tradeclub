@@ -30,7 +30,7 @@ const App: () => React$Node = () => {
     <NavigationContainer>
       <Stack.Navigator>
         <Stack.Screen name="Home" component={HomeScreen} 
-          options = {{title:"十堰市汽车协会",headerStyle: {
+          options = {{title:"十堰市专用汽车行业协会",headerStyle: {
             backgroundColor: 'white',
           },
           headerTintColor: 'black',
