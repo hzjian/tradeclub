@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>tradeclub.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>78FBCC866134B1475B52B720F6D0A1EF3EE0C839</string>
+				<key>dateExpires</key>
+				<string>2022/2/25</string>
+				<key>type</key>
+				<string>Apple Development</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>9UUXN79XD7.org.reactjs.native.example.tradeclub</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>9UUXN79XD7</string>
+				<key>get-task-allow</key>
+				<true/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>9UUXN79XD7.org.reactjs.native.example.tradeclub</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>tradeclub.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>bbc23546-f75d-4d54-af11-ccdd402349ac</string>
+				<key>name</key>
+				<string>iOS Team Provisioning Profile: org.reactjs.native.example.tradeclub</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>9UUXN79XD7</string>
+				<key>name</key>
+				<string>Beijing Gehua CATV Network Co., Ltd.</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
